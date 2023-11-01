@@ -1,10 +1,10 @@
 # Road-Accident-Analysis
 
-**# Description**
+# Description
 
 This Road Accident Data Dashboard is created in Excel to visualize and analyze road accident data in the United Kingdom. It offers interactive charts, maps, and filtering options to help in understanding accident patterns and making data-driven decisions for road safety. 
 
-**# Key Performance Indicators**
+# Key Performance Indicators
 
  ## Primary KPI's
     a. Total Casualties taken place after the accident.
