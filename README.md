@@ -14,5 +14,13 @@ This Road Accident Data Dashboard is created in Excel to visualize and analyze r
     d. Distribution of Total Casualties by Road Surface.
     e. Relation between Casualties by Area/Location and by Day/Night.
 
+### Steps Covered
+  1. Requirement gathering.
+  2. Data cleaning as per the requirement.
+  3. Data Processing by adding some customized columns in the data.
+  4. Data Analysis by Pivot Tables and Excel Functions.
+  5. Data Visualization to create charts and custom sheets to show the insights.
+  6. Report/ Dashboard creation from start to end.
+
 ### Conclusion  
 This project aids in enhancing road safety and reducing accidents by providing valuable insights into accident data.
