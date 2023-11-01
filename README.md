@@ -5,14 +5,14 @@ This Road Accident Data Dashboard is created in Excel to visualize and analyze r
 
 ### Key Performance Indicators
  #### Primary KPIs
-    a. Total Casualties taken place after the accident.
-    b. Total Casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle.
+   a. Total Casualties taken place after the accident.
+   b. Total Casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle.
  #### Secondary KPIs
-    a. Total Casualties with respect to vehicle type.
-    b. Monthly trend showing the comparison of casualties between the years 2021 and 2022.
-    c. Maximum Casualties by Road Type.
-    d. Distribution of Total Casualties by Road Surface.
-    e. Relation between Casualties by Area/Location and by Day/Night.
+   a. Total Casualties with respect to vehicle type.
+   b. Monthly trend showing the comparison of casualties between the years 2021 and 2022.
+   c. Maximum Casualties by Road Type.
+   d. Distribution of Total Casualties by Road Surface.
+   e. Relation between Casualties by Area/Location and by Day/Night.
 
 ### Steps Covered
   1. Requirement gathering.
