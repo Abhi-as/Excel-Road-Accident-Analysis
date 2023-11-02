@@ -28,7 +28,7 @@ This Road Accident Data Dashboard is created in Excel to visualize and analyze r
 This project aids in enhancing road safety and reducing accidents by providing valuable insights into accident data.
 
 
-For a more thorough understanding, please check this [Dashbaord File](RoadAccidentDataAnalysis.xlsx) File, which contains valueable information and important details.
+For a more thorough understanding, please check this [Dashboard File](Road_Accident_Data_Analysis.xlsx) File, which contains valuable information and important details.
 
 
-![Dashbaord Image](Dashboard_Image)
+![Dashboard Image](Dashboard_Image.png)
