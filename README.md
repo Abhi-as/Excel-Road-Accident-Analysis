@@ -4,10 +4,12 @@
 This Road Accident Data Dashboard is created in Excel to visualize and analyze road accident data in the United Kingdom. It offers interactive charts, maps, and filtering options to help in understanding accident patterns and making data-driven decisions for road safety. 
 
 ## Key Performance Indicators
-Primary KPIs
+**Primary KPIs**
 > + Total Casualties taken place after the accident.
 > + Total Casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle.
-Secondary KPIs
+
+
+**Secondary KPIs**
 > + Total Casualties with respect to vehicle type.
 > + Monthly trend showing the comparison of casualties between the years 2021 and 2022.
 > + Maximum Casualties by Road Type.
