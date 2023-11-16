@@ -5,7 +5,7 @@ This Road Accident Data Dashboard is created in Excel to visualize and analyze r
 
 ## Key Performance Indicators
 **Primary KPIs**
-> + Total Casualties taken place after the accident.
+> + Total Casualties took place after the accident.
 > + Total Casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle.
 
 
